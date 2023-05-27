@@ -8,4 +8,5 @@ Future Improvements:
     - To improve this project we can add new feature to enhance usability. 
     - We can also improve the user interface for better user experience on mobile.
     
-This project is open-source and is licensed under the [Open Source License].
+Licence Information:   
+This project is licensed under the MIT License.
